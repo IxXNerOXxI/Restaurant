@@ -21,6 +21,7 @@ ul
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 16px;
     font-weight: 700;
+    line-height: 23.4px;
 }
 .clr-fix
 {
@@ -73,6 +74,7 @@ ul
     font-family: 'Alegreya', serif;
     font-size: 20px;
     font-weight: 400;
+    line-height: 33.48px;
     color:#FFF;
 }
 .header-content
@@ -89,12 +91,16 @@ h1
 {
     font-family: 'Alegreya', serif;
     font-size: 76px;
+    font-weight: 400;
+    line-height: 91.2px;
     margin:30px 0;
 }
 .header-content p
 {
     font-family: 'Dancing Script', cursive;
     font-size: 40px;
+    font-weight: 400;
+    line-height:74.4px;
 }
 .buttons
 {
